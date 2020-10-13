@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">List View</string>
+    <string name="selected_item_title">Selected Item:</string>
+</resources>
